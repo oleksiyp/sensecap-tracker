@@ -1,0 +1,3 @@
+#!/bin/bash
+
+echo "All done!" > /share/senscap_tracker_addon_output.txt

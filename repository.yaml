@@ -1,4 +1,4 @@
 # https://developers.home-assistant.io/docs/add-ons/repository#repository-configuration
-name: Example Home Assistant add-on repository
-url: 'https://github.com/home-assistant/addons-example'
-maintainer: Awesome Maintainer <awesome@example.com>
+name: SenseCap T1000-A tracker add-on repository
+url: 'https://github.com/oleksiyp/sensecap-tracker'
+maintainer: Oleksii Pylypenko <oleksiy.pylypenko@gmail.com>
